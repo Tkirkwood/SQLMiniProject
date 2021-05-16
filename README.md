@@ -1,2 +1,3 @@
 # SQLMiniProject
-Contains exercise answers for the project
+repo for Tkirkwoods SQL mini project for sparta global java dev course.
+Contains both a document with both questions and answers and a folder with the code for each question
